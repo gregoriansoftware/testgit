@@ -12,7 +12,7 @@ namespace testgit.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "greg", "gary" };
+            return new string[] { "greg", "gary", "tracy" };
         }
 
         // GET api/values/5
